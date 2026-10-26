@@ -17,7 +17,7 @@ Project Intelligence Hub, set up 2026-10-26. This is the maintenance guide.
 ## Inside a project folder
 
 ```
-sec-01 Splunk Brute Force Detection Lab/
+sec-01 SOC Automation and Detection Engineering Lab/
 ├── 01 Project Overview.docx           ← read these
 ├── 02 Technical Deep Dive.docx
 ├── 03 Engineering Learning Guide.docx

@@ -1,5 +1,5 @@
 ---
-title: Splunk Brute Force Detection Lab
+title: SOC Automation and Detection Engineering Lab
 subtitle: Development Journal · sec-01
 ---
 
@@ -117,10 +117,17 @@ subtitle: Development Journal · sec-01
 |---|---|
 | Objective | [Verified] Pilot project for the Project Intelligence Hub |
 | Work completed | [Verified] Created the five hub documents from the repository, history and screenshots. No project files were changed |
-| Files changed | Hub only: `03 — Cybersecurity Engineering/sec-01 Splunk Brute Force Detection Lab/` |
+| Files changed | Hub only: `03 — Cybersecurity Engineering/sec-01 SOC Automation and Detection Engineering Lab/` |
 | Technical decisions | [Verified] Documented from GitHub, because the local folder is behind |
 | Problems encountered | [Verified] Found the double count, the severity mismatch and the 81 versus 80 event difference |
 | Solutions implemented | Recorded as roadmap items, not changed in code |
 | Testing performed | Viewed screenshots 05 and 07 against the code |
 | Remaining issues | See Project Roadmap |
 | Next recommended action | Merge the docs branch, then fix the double count |
+
+# 2026-10-26 · Hub name changed
+
+| Field | Entry |
+|-----|------------------|
+| Work completed | [Verified] At your request, the hub now uses the lab's current name, "SOC Automation and Detection Engineering Lab", matching the repository README and your profile. The repository slug stays `splunk-bruteforce-detection-lab` |
+| Next recommended action | None |

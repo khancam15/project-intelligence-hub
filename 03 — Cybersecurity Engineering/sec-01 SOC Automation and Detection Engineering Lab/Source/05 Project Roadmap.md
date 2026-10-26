@@ -1,5 +1,5 @@
 ---
-title: Splunk Brute Force Detection Lab
+title: SOC Automation and Detection Engineering Lab
 subtitle: Project Roadmap · sec-01
 ---
 

@@ -16,7 +16,7 @@ Every statement is labeled **[Verified]**, **[Inferred]** or **[Recommended]**. 
 
 | ID | Project | Folder |
 |---|---|---|
-| sec-01 | Splunk Brute Force Detection Lab | [03 — Cybersecurity Engineering](03%20—%20Cybersecurity%20Engineering/) |
+| sec-01 | SOC Automation and Detection Engineering Lab | [03 — Cybersecurity Engineering](03%20—%20Cybersecurity%20Engineering/) |
 
 More projects are added as they are documented and reviewed.
 
