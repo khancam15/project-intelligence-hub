@@ -1,0 +1,10 @@
+.DS_Store
+# Kept local only
+10 — System Administration/Project Registry/
+10 — System Administration/Update Logs/
+10 — System Administration/Backups/
+10 — System Administration/Automation Scripts/Retired/
+**/Source/docx/
+.env
+*.pem
+*.key

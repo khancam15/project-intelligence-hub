@@ -1,0 +1,11 @@
+{
+  "id": "sec-01",
+  "name": "Splunk Brute Force Detection Lab",
+  "category": "03 — Cybersecurity Engineering",
+  "status": "Completed",
+  "repo": "https://github.com/khancam15/splunk-bruteforce-detection-lab",
+  "local_folder": "soc-automation-splunk-bruteforce-lab",
+  "last_verified": "2026-10-26",
+  "last_synced_commit": {"main": "c11e44c", "docs/portfolio-review": "ba1347a"},
+  "tags": ["security", "splunk", "python", "portfolio"]
+}
