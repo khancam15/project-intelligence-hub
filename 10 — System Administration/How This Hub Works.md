@@ -37,7 +37,7 @@ sec-01 Splunk Brute Force Detection Lab/
 - The Development Journal is append-only.
 - Nothing runs on a schedule unless you approve it.
 - `local_folder` in project.json is a folder name inside ~/Documents, never a full path.
-- GitHub (public repo khancam15/project-intelligence-hub): only project documents, templates and scripts are published. The registry, update logs and backups stay on this Mac only.
+- GitHub (public repo khaneilcampbell/project-intelligence-hub): only project documents, templates and scripts are published. The registry, update logs and backups stay on this Mac only.
 
 ## Updating a project (manual sync)
 

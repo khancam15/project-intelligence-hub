@@ -9,7 +9,7 @@ subtitle: Project Overview · web-01
 
 | Source | Location |
 |---|---|
-| GitHub repository | [khancam15/khaneilcampbell.com](https://github.com/khancam15/khaneilcampbell.com) |
+| GitHub repository | [khaneilcampbell/khaneilcampbell.com](https://github.com/khaneilcampbell/khaneilcampbell.com) |
 | Live site | [khaneilcampbell.com](https://khaneilcampbell.com) |
 | Local folder | Local clone on your Mac (34 commits behind `main`) |
 | Related Claude conversation | None accessible |

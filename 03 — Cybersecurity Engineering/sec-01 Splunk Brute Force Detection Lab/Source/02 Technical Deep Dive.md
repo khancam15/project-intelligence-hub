@@ -5,7 +5,7 @@ subtitle: Technical Deep Dive · sec-01
 
 | Project ID | Repository | Code version described | Last verified |
 |---|---|---|---|
-| sec-01 | [splunk-bruteforce-detection-lab](https://github.com/khancam15/splunk-bruteforce-detection-lab) | `soc_automation.py` at c11e44c (`main`), identical on `docs/portfolio-review` | 2026-10-26 |
+| sec-01 | [splunk-bruteforce-detection-lab](https://github.com/khaneilcampbell/splunk-bruteforce-detection-lab) | `soc_automation.py` at c11e44c (`main`), identical on `docs/portfolio-review` | 2026-10-26 |
 
 **Labels.** **[Verified]** read in the repo, history or screenshots · **[Inferred]** my reasoning from that evidence · **[Recommended]** a suggestion, not implemented.
 

@@ -11,7 +11,7 @@ subtitle: Technical Deep Dive · car-01
 
 # 1. System Architecture
 
-[Verified] GitHub renders `README.md` from the repository whose name equals the username (`khancam15/khancam15`) at the top of the profile page.
+[Verified] GitHub renders `README.md` from the repository whose name equals the username at the top of the profile page. Since the account rename (2026-10-26) that means `khaneilcampbell/khaneilcampbell`; the README still lives in `khaneilcampbell/khancam15` until that repository is renamed.
 
 # 2. Components
 

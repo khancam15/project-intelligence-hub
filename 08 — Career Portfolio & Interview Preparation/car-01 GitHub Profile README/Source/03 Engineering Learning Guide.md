@@ -13,7 +13,7 @@ subtitle: Engineering Learning Guide · car-01
 
 | Concept | Where it shows up |
 |---|---|
-| Special profile repositories | `khancam15/khancam15` |
+| Special profile repositories | `khaneilcampbell/khancam15` |
 | Repository renames and redirects | Link changes on the docs branch |
 | Visibility (public and private) | au-01 link |
 | Single source of truth | Profile versus portfolio site |
@@ -24,7 +24,7 @@ subtitle: Engineering Learning Guide · car-01
 
 **Beginner.** A public repository with the same name as your username; its README appears on your profile.
 
-**Example from your project.** [Verified] `khancam15/khancam15`, created 2026-10-12.
+**Example from your project.** [Verified] `khaneilcampbell/khancam15`, created 2026-10-12.
 
 ## Renames and redirects
 

@@ -33,3 +33,11 @@ subtitle: Development Journal · car-01
 | Field | Entry |
 |-----|------------------|
 | Work completed | [Verified] Hub documents written. Noted that au-01's repository is now private |
+
+# 2026-10-26 · GitHub account renamed
+
+| Field | Entry |
+|-----|------------------|
+| Work completed | [Reported by you] Renamed the GitHub account from khancam15 to khaneilcampbell. [Verified] The repository now answers at `khaneilcampbell/khancam15` |
+| Remaining issues | [Inferred from GitHub's profile rule] A profile README only shows when the repository name equals the username, so it is no longer displayed |
+| Next recommended action | Rename the repository `khancam15` to `khaneilcampbell` in its Settings |

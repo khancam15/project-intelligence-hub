@@ -9,7 +9,7 @@ subtitle: Project Overview · sec-01
 
 | Source | Location |
 |---|---|
-| GitHub repository | [khancam15/splunk-bruteforce-detection-lab](https://github.com/khancam15/splunk-bruteforce-detection-lab) |
+| GitHub repository | [khaneilcampbell/splunk-bruteforce-detection-lab](https://github.com/khaneilcampbell/splunk-bruteforce-detection-lab) |
 | Portfolio case study | [khaneilcampbell.com/soc-automation-lab.html](https://khaneilcampbell.com/soc-automation-lab.html) |
 | Local folder | Local clone on your Mac (out of date, see section 4) |
 | Related Claude conversation | None accessible |

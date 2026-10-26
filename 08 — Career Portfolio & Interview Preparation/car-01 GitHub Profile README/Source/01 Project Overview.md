@@ -9,7 +9,7 @@ subtitle: Project Overview · car-01
 
 | Source | Location |
 |---|---|
-| GitHub repository | [khancam15/khancam15](https://github.com/khancam15/khancam15) (public; shown on your profile page) |
+| GitHub repository | [khaneilcampbell/khancam15](https://github.com/khaneilcampbell/khancam15) (public). [Verified 2026-10-26] Your account was renamed from khancam15 to khaneilcampbell, so this repository no longer matches your username. [Inferred from GitHub's profile rule] It no longer shows on your profile. Rename it to `khaneilcampbell` to restore it |
 | Local folder | None found in Documents |
 | Related projects | web-01 (portfolio site), web-02 (Benjaire), ai-01, sec-01, au-01 (featured or proposed) |
 
@@ -21,7 +21,7 @@ subtitle: Project Overview · car-01
 
 **Where you left off.** [Verified] `main` was last updated on 2026-10-25 (e59d20c, "align profile README with the current khaneilcampbell.com"). A `docs/portfolio-review` branch, 4 commits ahead and unmerged, adds the Job Application Workflow as a featured project and changes repository links to new names.
 
-**What it does.** [Verified] The README shown at the top of github.com/khancam15: your positioning ("Ambitious AI. Enterprise-grade discipline."), Benjaire as flagship business, featured projects, tools, certifications and contact links.
+**What it does.** [Verified] The README for the top of your GitHub profile page: your positioning ("Ambitious AI. Enterprise-grade discipline."), Benjaire as flagship business, featured projects, tools, certifications and contact links.
 
 **What remains unresolved.**
 
@@ -35,7 +35,7 @@ subtitle: Project Overview · car-01
 
 # 1. Executive Summary
 
-[Verified] A single `README.md` in the special `khancam15/khancam15` repository, which GitHub shows on your profile. 8 commits on `main` since 2026-10-12.
+[Verified] A single `README.md` in the `khaneilcampbell/khancam15` repository. GitHub shows a profile README only when the repository name equals your username, so it needs renaming to `khaneilcampbell` after the account rename. 8 commits on `main` since 2026-10-12.
 
 # 2. Problem Statement
 

@@ -9,7 +9,7 @@ subtitle: Project Overview · web-04
 
 | Source | Location |
 |---|---|
-| GitHub repository | [khancam15/service-desk-dashboard](https://github.com/khancam15/service-desk-dashboard) (public) |
+| GitHub repository | [khaneilcampbell/service-desk-dashboard](https://github.com/khaneilcampbell/service-desk-dashboard) (public) |
 | Local folder | None found in Documents |
 | Related projects | sec-01 Splunk lab, ai-01 Commerce Pipeline (linked from the README) |
 
