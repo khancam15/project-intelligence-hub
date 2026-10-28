@@ -27,3 +27,9 @@ The Markdown in each project's `Source/` folder is the source of truth. `10 — 
 This public repository contains documents, templates and scripts only. The project registry, update logs and backups are kept locally.
 
 Documents are prepared with Claude and reviewed by the project owner.
+
+## License
+
+Original software code is licensed under [MIT](LICENSE). Personal and editorial
+content, branding, and third-party materials are not included in that grant;
+see [license scope](LICENSING.md).
