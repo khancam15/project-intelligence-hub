@@ -1,4 +1,4 @@
-# Project Intelligence Hub
+# Projects Intelligence Hub
 
 Documentation for Khaneil Campbell's engineering projects: one folder per project, five documents each.
 
